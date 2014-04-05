@@ -11,7 +11,8 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": [
-    "index.js"
+    "index.js",
+    "jquery.sticky.js"
   ],
   "styles": [
     "sticky.css"
